@@ -1,0 +1,48 @@
+Nama : hahalintar
+Harga : 1
+Kapasitas : 7 orang
+Durasi : 3 menit
+Deskripsi : Halilintar
+Upgrade : 3 steelbar + $ 10
+
+Nama : coasters
+Harga : 1
+Kapasitas : 5 orang
+Durasi : 3 menit
+Deskripsi : Roller coaster
+Upgrade : 2 steelbar + $ 5
+
+Nama : Niagara
+Harga : 2
+Kapasitas : 5 orang
+Durasi : 4 menit
+Deskripsi : Niagara
+Upgrade : 3 wood + 2 cement + $ 8
+
+Nama : Ferris wheel
+Harga : 1
+Kapasitas : 10
+Durasi : 5 menit
+Deskripsi : Bianglala
+Upgrade : 2 wood + 2 paint + $ 5
+
+Nama : Kurakura
+Harga : 1
+Kapasitas : 7 orang
+Durasi : 3 menit
+Deskripsi : Kora kora
+Upgrade : 2 steelbar + $ 6
+
+Nama : 
+Harga : 2
+Kapasitas : 4 orang
+Durasi : 5 menit
+Deskripsi : Arung jeram
+Upgrade : 3 cement + 4 wood
+
+Nama : The asylum
+Harga : 1.5
+Kapasitas : 3 orang
+Durasi : 4 menit
+Deskripsi : Haunted house
+Upgrade : 3 wood + $ 9

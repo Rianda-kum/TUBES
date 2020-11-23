@@ -1,0 +1,6 @@
+NAMA BAHAN	- HARGA
+brick		- $ 3
+cement		- $ 3
+steelbar	- $ 7
+wood		- $ 2
+paint		- $ 5
